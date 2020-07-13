@@ -19,7 +19,8 @@ class Song
  end
  
  def self.genre
- 
+  @@genre_
+end
  def self.artists
  
   

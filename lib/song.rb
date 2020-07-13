@@ -53,11 +53,3 @@ end
 end
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
-ninety_nine_problems.name
-ninety_nine_problems.artists
-ninety_nine_problems.genre
-Song.count
-Song.artists
-Song.genre
-Song.genre_count
-Song.artist_count

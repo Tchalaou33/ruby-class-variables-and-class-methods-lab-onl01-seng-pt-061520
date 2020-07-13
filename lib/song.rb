@@ -25,15 +25,7 @@ end
  def self.artists
   @@artists.uniq
 end
-  def initialize()
-    @
-  end
   
-  def()
-  @
-end
-end
-
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
 ninety_nine_problems.name
